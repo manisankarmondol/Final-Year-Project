@@ -247,11 +247,11 @@ const OrderScreen = ({ match, history }) => {
                   {!sdkReady ? (
                     <Loader />
                   ) : (
-                    /*<PayPalButton
+                    <PayPalButton
                       amount={order.totalPrice}
                       onSuccess={successPaymentHandler}
-                    />*/
-                    <Button
+                    />
+                    /* <Button
                       type="button"
                       className="btn-block"
                       //disabled={cart.cartItems === 0}
@@ -259,7 +259,7 @@ const OrderScreen = ({ match, history }) => {
                       onClick={successPaymentHandler}
                     >
                       Buy Now
-                    </Button>
+                    </Button>*/
                   )}
                 </ListGroup.Item>
               )}
