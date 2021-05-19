@@ -12,19 +12,17 @@ const AboutUs = () => {
         <Row>
           <Col md={6}>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-              Bibendum enim facilisis gravida neque. Sed viverra tellus in hac
-              habitasse. Blandit volutpat maecenas volutpat blandit. Laoreet non
-              curabitur gravida arcu ac tortor dignissim convallis. Feugiat sed
-              lectus vestibulum mattis. Facilisis volutpat est velit egestas dui
-              id ornare arcu. Lectus urna duis convallis convallis. Urna et
-              pharetra pharetra massa massa ultricies mi quis hendrerit. Sed
-              vulputate mi sit amet mauris commodo quis imperdiet. Convallis a
-              cras semper auctor neque. Elit ullamcorper dignissim cras
-              tincidunt lobortis feugiat. Volutpat maecenas volutpat blandit
-              aliquam etiam. Sodales neque sodales ut etiam sit amet nisl.
-              Sodales ut etiam sit amet. Ac felis donec et odio.
+              Kaveri is initiative to make sell products at an affordable price
+              and to live long the saving initiative of river kaveri. We prodive
+              24/7 customer service that any point of time anyone have a problem
+              can contact and tell them their problems regarding anything
+              related to our service. We have 13 centers across pan india .We
+              deal with small business across villages and the cities where
+              online business has not yet been started .We strive to have a
+              positive impact on customers, employees, small businesses, the
+              economy, and communities. Our workers are passionate builders with
+              different backgrounds and goals, who share a common desire to
+              always be learning and inventing on behalf of our customers.
             </p>
           </Col>
         </Row>

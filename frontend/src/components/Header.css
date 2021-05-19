@@ -1,8 +1,8 @@
-.Navbar_brand {
+header {
+  font-family: "Montserrat", sans-serif;
+}
+.Navbar-brand {
   font-family: "Ubuntu", sans-serif;
   text-transform: none;
   font-size: 2rem;
-}
-header {
-  font-family: "Montserrat", sans-serif;
 }
