@@ -7,7 +7,7 @@
 * Used MonogoDb and Mongoose for Database
 * Used JsonwebToken for Authentication
 # Heroku app link
-* Link for  [Kaveri](https://kaveriapp.herokuapp.com/).
+* Link for  [Kaveri](https://kaverirkmgec.herokuapp.com/).
 # Screnshots
 ![1](https://user-images.githubusercontent.com/69320529/118888288-199d6b00-b919-11eb-90cd-c6b0caf1894c.png)
 ![2](https://user-images.githubusercontent.com/69320529/118888293-1b672e80-b919-11eb-9d5e-68018401e2dd.png)
