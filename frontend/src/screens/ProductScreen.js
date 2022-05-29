@@ -94,7 +94,12 @@ const ProductScreen = ({ history, match }) => {
                 </ListGroup.Item>
                 <ListGroup.Item>Price: ₹{product.price}</ListGroup.Item>
                 <ListGroup.Item>
-                  Description: {product.description}
+                  <ListGroup variant="flush">
+                    <ListGroup.Item disabled>{product.description_one}</ListGroup.Item>
+                    <ListGroup.Item>{product.description_two}</ListGroup.Item>
+                    <ListGroup.Item>{product.description_three}</ListGroup.Item>
+                    <ListGroup.Item>{product.description_four}</ListGroup.Item>
+                  </ListGroup>
                 </ListGroup.Item>
               </ListGroup>
             </Col>

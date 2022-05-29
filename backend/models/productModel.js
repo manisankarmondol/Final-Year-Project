@@ -39,7 +39,19 @@ const productSchema = mongoose.Schema(
       type: String,
       required: true,
     },
-    description: {
+    description_one: {
+      type: String,
+      required: true,
+    },
+    description_two: {
+      type: String,
+      required: true,
+    },
+    description_three: {
+      type: String,
+      required: true,
+    },
+    description_four: {
       type: String,
       required: true,
     },
